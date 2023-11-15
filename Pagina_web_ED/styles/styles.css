@@ -6,8 +6,9 @@ body {
 
 header {
     color: green;
-    text-align: left;
+    text-align: center;
     padding:0.5em;
+    size: 30px;
 }
 
 nav {
@@ -43,4 +44,9 @@ footer {
 }
 .color{
     color: white;
+}
+p{
+    background-color: #333;
+    color:white;
+    padding: 2em;
 }
